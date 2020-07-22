@@ -37,6 +37,21 @@
     <title>Arthur - Gastroenterologia e Endoscopia Digestiva Alta</title>
 
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <script src="/assets/js/jquery-3.4.1.slim.min.js"></script>
+    <link rel="stylesheet" href="/assets/css/sweetalert2.min.css">
+    <script  src="/assets/js/sweetalert2.all.min.js"></script>
+
+    <script type="text/javascript">
+        // Alert With Input Type
+        $(document).on('click', '#mauticform_input_formagendamento_submit', function (e) {
+            swal({
+                type: 'success',
+                //   title: 'Cadastro feito com sucesso',
+                html: '<div class="mauticform-message" id="mauticform_formagendamento_message"></div>',
+                confirmButtonText: 'Fechar'
+            })
+        });
+    </script>
 
     <script type="text/javascript">
         /** This section is only needed once per page if manually copying **/
@@ -555,7 +570,7 @@
     </section>
 
     
-    <section class="ttm-row portfolio-style-section clearfix">
+    <section class="ttm-row portfolio-style-section ptb-100 clearfix">
         <div class="" id="colonoscopia">
         </div>
         <div class="container">
@@ -653,7 +668,7 @@
     </section>
 
     <!-- Start Appointment Area -->
-    <section class="prebt appointment-area ptb-100 jarallax" data-jarallax='{"speed": 0.3}'>
+    <section class="prebt appointment-area  ptb-100 jarallax" data-jarallax='{"speed": 0.3}'>
         <div class="container">
             <div class="appointment-content">
                 <div class="ttm-tabs">
@@ -675,7 +690,7 @@
                                                     action="https://arthurarrais.com/email/form/submit?formId=2" id="mauticform_formagendamento"
                                                     data-mautic-form="formagendamento" enctype="multipart/form-data">
                                                     <div class="mauticform-error" id="mauticform_formagendamento_error"></div>
-                                                    <div class="mauticform-message" id="mauticform_formagendamento_message"></div>
+                                                    <!-- <div class="mauticform-message" id="mauticform_formagendamento_message"></div> -->
                                                     <div class="mauticform-innerform">
                             
                             
