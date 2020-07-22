@@ -1139,7 +1139,7 @@ Main Banner Area CSS
 .main-banner-content span {
   display: block;
   margin-bottom: 2px;
-  color: #047167;
+  color: #a2565f;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -7777,4 +7777,7 @@ i.fa-caret-left{
     margin: auto;
     text-align: center;
     padding: 18px;
+}
+.btn-whatsapp{
+  background: #a2565f;
 }
