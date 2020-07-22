@@ -1895,8 +1895,8 @@ Our Vision Area CSS
 }
 
 .single-vision-box:hover .icon {
-  background-color: #01ab9b;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #cd5c4c;
 }
 
 .single-vision-box:hover h3 {
@@ -3181,8 +3181,8 @@ FAQ Area CSS
   width: 40px;
   text-align: center;
   height: 100%;
-  background: #d2f5e1;
-  color: #cd5c4b;
+  background: #cd5c4b;
+  color: #fff;
   font-size: 14px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
