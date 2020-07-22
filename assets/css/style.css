@@ -6121,7 +6121,7 @@ Contact Area CSS
 Subscribe Area CSS
 =================================================*/
 .subscribe-area {
-  border-bottom: 1px solid #272a35;
+  border-bottom: 1px solid #fff;
   margin-bottom: 60px;
   padding-bottom: 60px;
 }
@@ -6388,7 +6388,7 @@ Footer Area CSS
 
 .copyright-area {
   text-align: center;
-  border-top: 1px solid #272a35;
+  border-top: 1px solid #fff;
   margin-top: 50px;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -6985,9 +6985,10 @@ Go Top CSS
   margin-left: -9px;
 }
 .btnagendar{
-  background: #cd5c4b;
+  background: #ffffff;
   width: 80%;
   margin-top: 10px;
+  color: #a2565f;
 }
 .btnagendar:hover{
   background: #cd5c4b !important;
