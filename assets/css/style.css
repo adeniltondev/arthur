@@ -6020,7 +6020,7 @@ Contact Area CSS
 }
 
 .contact-info ul li .icon {
-  border: 1px dashed #19ce67;
+  border: 1px dashed #cd5c4b;
   width: 75px;
   height: 75px;
   line-height: 75px;
@@ -6035,8 +6035,8 @@ Contact Area CSS
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   z-index: 1;
-  -webkit-box-shadow: 0 1px 3px 1px #19ce67;
-  box-shadow: 0 1px 3px 1px #19ce67;
+  -webkit-box-shadow: 0 1px 3px 1px #cd5c4b;
+  box-shadow: 0 1px 3px 1px #cd5c4b;
 }
 
 /* .contact-info ul li .icon::before {
@@ -6240,7 +6240,7 @@ Subscribe Area CSS
 Footer Area CSS
 =================================================*/
 .footer-area {
-  background-color: #121521;
+  background-color: #a2565f;
   padding-top: 80px;
   z-index: 111;
 }
@@ -6275,19 +6275,19 @@ Footer Area CSS
 
 .single-footer-widget .social li a {
   display: block;
-  color: #ffffff;
+  color: #a2565f;
   width: 30px;
   height: 30px;
   line-height: 30px;
   border-radius: 50%;
-  background-color: #3a3c45;
+  background-color: #fff;
   text-align: center;
   font-size: 14px;
 }
 
 .single-footer-widget .social li a:hover {
   color: #ffffff;
-  background-color: #19ce67;
+  background-color: #cd5c4b;
   -webkit-transform: translateY(-2px);
           transform: translateY(-2px);
 }
