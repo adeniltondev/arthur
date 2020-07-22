@@ -38,6 +38,22 @@
 
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
 
+    <script src="/assets/js/jquery-3.4.1.slim.min.js"></script>
+    <link rel="stylesheet" href="/assets/css/sweetalert2.min.css">
+    <script  src="/assets/js/sweetalert2.all.min.js"></script>
+
+    <script type="text/javascript">
+        // Alert With Input Type
+        $(document).on('click', '#mauticform_input_formcontato_submit', function (e) {
+            swal({
+                type: 'success',
+                //   title: 'Cadastro feito com sucesso',
+                html: '<div class="mauticform-message" id="mauticform_formcontato_message"></div>',
+                confirmButtonText: 'Fechar'
+            })
+        });
+    </script>
+
     <script type="text/javascript">
         /** This section is only needed once per page if manually copying **/
         if (typeof MauticSDKLoaded == 'undefined') {
@@ -265,7 +281,7 @@
                                 data-mautic-form="formcontato" enctype="multipart/form-data">
 
                                 <div class="mauticform-error" id="mauticform_formcontato_error"></div>
-                                <div class="mauticform-message" id="mauticform_formcontato_message"></div>
+                                <!-- <div class="mauticform-message" id="mauticform_formcontato_message"></div> -->
                                 <div class="mauticform-innerform">
 
 
@@ -277,7 +293,7 @@
                                                     class="mauticform-row mauticform-text mauticform-field-1 mauticform-required">
                                                     <input id="mauticform_input_formcontato_nome"
                                                         name="mauticform[nome]" value="" placeholder="Nome"
-                                                        class="mauticform-input form-control" type="text">
+                                                        class=" mauticform-input form-control" type="text">
                                                     <span class="mauticform-errormsg"
                                                         style="display: none;">Obrigatório</span>
                                                 </div>

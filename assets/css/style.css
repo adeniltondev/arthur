@@ -2771,7 +2771,7 @@ Appointment Area CSS
 }
 
 .appointment-content form .form-group .form-control:focus {
-  border-color: #19ce67;
+  border-color: #cd5c4b;
   padding-left: 2px;
 }
 
@@ -6890,7 +6890,7 @@ Go Top CSS
 .blog-item .blog-bottom ul li {
   display: inline-block;
   list-style-type: none;
-  color: #0046c0;
+  color: #a2565f;
   font-weight: 500;
   font-size: 15px;
 }
@@ -7780,4 +7780,62 @@ i.fa-caret-left{
 }
 .btn-whatsapp{
   background: #a2565f;
+}
+.swal2-popup .swal2-styled {
+  border: 0 !important;
+  border-radius: 3px !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  color: #fff !important;
+  cursor: pointer !important;
+  font-size: 17px !important;
+  font-weight: 500 !important;
+  margin: 15px 5px 0 !important;
+  padding: 10px 32px !important;
+  background-color: #cd5c4b !important;
+  width: 100% !important;
+  opacity: initial !important
+}
+
+.swal2-show {
+  background: #fff !important;
+}
+
+#mauticform_formcontato_message {
+  margin-bottom: 10px !important;
+  color: #cd5c4b !important;
+  font-size: 27px !important;
+  font-weight: 600 !important;
+  /* text-shadow: 0 0 1px #144027 !important */
+}
+
+.swal2-success-circular-line-left {
+  background: #fff !important;
+}
+
+.swal2-success-circular-line-right {
+  background: #fff !important;
+}
+
+.swal2-success-fix {
+  background: #fff !important;
+}
+
+.swal2-container.swal2-shown {
+  background-color: rgba(60, 96, 132, .88) !important
+}
+
+.swal2-icon.swal2-success .swal2-success-ring {
+  border: 4px solid #cd5c4b !important;
+}
+
+.swal2-icon.swal2-success [class^=swal2-success-line] {
+  background-color: #3c3935 !important;
+}
+.contact-form form .form-control:focus{
+  border-color: #cd5c4b;
+  border-bottom: 2px solid #cd5c4b;
+  transform-style: flat;
+  transition: steps(25);
+  /* border: 1px solid; */
 }
