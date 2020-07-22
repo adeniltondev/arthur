@@ -467,7 +467,7 @@ Header Area CSS
   display: inline-block;
   line-height: 28px;
   border-radius: 50%;
-  background-color: #446466;
+  background-color: #a2565f;
   text-align: center;
   font-size: 13px;
   -webkit-transition: 0.5s;
@@ -479,7 +479,7 @@ Header Area CSS
 }
 
 .header-contact-info li:hover i {
-  background-color: #446466;
+  background-color: #a2565f;
   color: #ffffff;
 }
 
@@ -508,14 +508,14 @@ Header Area CSS
   height: 30px;
   line-height: 31px;
   border-radius: 50%;
-  background-color: #446466;
+  background-color: #a2565f;
   text-align: center;
   font-size: 14px;
 }
 
 .header-right-content .top-header-social li a:hover {
   color: #ffffff;
-  background-color: #446466;
+  background-color: #a2565f;
   -webkit-transform: translateY(-5px);
           transform: translateY(-5px);
 }
@@ -1588,7 +1588,7 @@ About Area CSS
 }
 
 .about-content ul li:hover i {
-  background-color: #446466;
+  background-color: #a2565f;
   color: #ffffff;
 }
 
@@ -2578,7 +2578,7 @@ Doctor Details Area CSS
 }
 
 .skill-desc ul li span:hover i {
-  background-color: #446466;
+  background-color: #a2565f;
   color: #ffffff;
 }
 
@@ -6030,7 +6030,7 @@ Contact Area CSS
   text-align: center;
   position: absolute;
   left: 0;
-  background: #446466;
+  background: #a2565f;
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -6046,7 +6046,7 @@ Contact Area CSS
   right: 0;
   top: 0;
   bottom: 0;
-  background: #446466;
+  background: #a2565f;
   border-radius: 50%;
   margin: 6px;
   -webkit-box-shadow: 0 1px 3px 1px #19ce67;
@@ -6190,7 +6190,7 @@ Subscribe Area CSS
   padding: 1px 50px 0 25px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  background: #446466;
+  background: #a2565f;
   height: 55px;
   color: #ffffff;
   display: inline-block;
@@ -6683,7 +6683,7 @@ Go Top CSS
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
-  color: #446466;
+  color: #a2565f;
   font-size: 30px;
   margin-bottom: 35px;
   -webkit-box-shadow: 0px 0px 0px 7px #ffffffa6;
@@ -6911,7 +6911,7 @@ Go Top CSS
 
 .blog-item .blog-bottom ul li a {
   display: block;
-  color: #446466;
+  color: #a2565f;
   font-weight: 500;
   font-size: 15px;
 }
@@ -7451,7 +7451,7 @@ Go Top CSS
 }
 .btn-home{
   font-size: 15px;
-  color: #446466;
+  color: #a2565f;
   background-color: #ffffff;
   font-weight: 500;
   padding: 10px 0px 10px 0px;
@@ -7461,7 +7461,7 @@ Go Top CSS
   margin-top: 21px;
 }
 .btn-home:hover{
-   color:#446466 !important;
+   color:#a2565f !important;
 }
 
 /* ===============================================
@@ -7654,7 +7654,7 @@ margin-top: 80px;
   color: #cd5c4b !important;
 }
 .ttm-bgcolor-skincolor, .ttm-bgcolor-skincolor > .ttm-bg-layer, .ttm-bgcolor-skincolor > .ttm-bg-layer > .ttm-bg-layer-inner, .tp-shapewrapper, .ttm-bg-highlight-skin, .tp-caption.skin-flatborder-button:hover, .ttm-header-icons .ttm-header-cart-link span.number-cart, .ttm-header-icons .ttm-header-cart-link a:hover, .ttm-header-icons .ttm-header-search-link a:hover, .ttm-icon_element-background-color-skincolor, .ttm-btn-bgcolor-skincolor, .ttm-btn.btn-inline.ttm-btn-color-black:hover .ttm-btn.btn-inline.ttm-btn-underline:before, .ttm-btn.btn-inline.ttm-btn-color-black:hover .ttm-btn.btn-inline.ttm-btn-underline:after, .ttm-tabs ul.tabs li.active a, .ttm-progress-bar .progress .progress-bar.progress-bar-color-bar_skincolor, .newsletter-form input[type="submit"], .ttm-quote-form input[type="submit"], .social-icons.circle li>a:hover, .ttm-btn.ttm-btn-bgcolor-black:hover, .ttm-btn.ttm-btn-color-skincolor.ttm-btn-style-border:hover, #totop.top-visible, .ttm-video-btn .ttm-btn-play, .accordion .toggle.toggle-title.ttm-style-classic.active .toggle-title, .ttm-tabs.ttm-tab-style-horizontal ul.tabs li.active a, .ttm-tabs.tabs-for-single-products ul.tabs li:hover a, .ttm-bgcolor-grey .ttm-pagination .page-numbers.current, .ttm-bgcolor-grey .ttm-pagination .page-numbers:hover, .mailchimp-inputbox button[type="submit"], a.checkout-button:hover, .coupon button:hover, .ttm-cart-form button:hover, .place-order button:hover, .ttm-topbar-wrapper .ttm-fbar-btn, .section-title h5:after, .section-title h5:before, .ttm-btn.btn-inline.ttm-btn-underline:hover:after, .ttm-icon.ttm-icon_element-background-skincolor, .ttm-video-icon .ttm-icon:before, .ttm-video-icon .ttm-icon:after, .event-slide.owl-theme .owl-controls .owl-nav div:hover, .footer .social-icons li>a:hover, [data-tooltip]:focus:after, [data-tooltip]:hover:after, .widget ul#menu-footer-services li a:before, .ttm-newsletter-box input[type="submit"], .featured-icon-box.style4:hover, .ttm-processbox-wrapper .ttm-processbox .process-num, .featured-imagebox-team .ttm-social-links-wrapper ul li a:hover, .row-title u:after, .featured-imagebox-team.ttm-team-box-view-overlay .featured-iconbox a, .ttm-ptablebox-featured-col .ttm-ptablebox-title, .ttm-feature-plans .ttm-static-box-content, .ttm-tabs-style-classic ul.tabs li.active a:after, .widget.widget-nav-menu ul li.active a, .widget.widget-nav-menu ul li:hover a, .tab-inner-heading, .sidebar .widget .widget-title:after, .sidebar .widget .tagcloud a:hover, .ttm-pagination .page-numbers.current, .ttm-pagination .page-numbers:hover, .featured-imagebox-team.ttm-team-box-view-overlay.ttm-box-view-top-image:hover .ttm-box-bottom-content, .sidebar .widget_product_categories li span, .sidebar .widget-categories li span, .comments-area .media-body a.comment-reply-link, .products .product:hover .ttm-product-content .add-to-cart-btn a:after, .products .product .ttm-shop-icon a:hover, div.product ul.tabs li.active a:before, div.product ul.tabs li a, .product .onsale, .Price-amount.amount ins, .ttm-team-social-links-wrapper ul li a, .ttm-header-style-overlay .ttm-header-icons .ttm-header-cart-link a:hover, .ttm-header-style-overlay .ttm-header-icons .ttm-header-search-link a:hover, .accordion .toggle.active .toggle-title {
-  background-color: #446466 !important;
+  background-color: #a2565f !important;
 }
 #mauticform_formagendamento_message{
   color: #E91E63;
@@ -7751,7 +7751,7 @@ i.fa-caret-left{
   margin-top: 12px;
 }
 .btn-home:hover {
-  background-color: #446466;
+  background-color: #a2565f;
   color: white !important;
 }
 @media(min-width:360px) and (max-width:640px){
