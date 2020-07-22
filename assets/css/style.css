@@ -2976,7 +2976,7 @@ Feedback Area CSS
 
 .feedback-slides .client-feedback .single-feedback span {
   display: block;
-  color: #19ce67;
+  color: #cd5c4b;
   margin-top: 5px;
   margin-bottom: 15px;
   font-family: "Rubik", sans-serif;
@@ -6811,7 +6811,7 @@ Go Top CSS
 
 /*-- Blog --*/
 .blog-area {
-  background-color: #f8fbff;
+  background-color: #f5f5f5;
   position: relative;
   /* padding-bottom: 180px; */
 }
