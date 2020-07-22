@@ -135,7 +135,7 @@ p:last-child {
 }
 
 .btn-primary {
-  background: #446466;
+  background: #cd5c4b;
   color: #ffffff;
 }
 
@@ -152,20 +152,20 @@ p:last-child {
   line-height: 33px;
   color: #ffffff;
   border-radius: 50%;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
-  background: #00ccb9;
+  background: #cd5c4b;
   color: #ffffff;
 }
 
 .btn-primary:hover, .btn-primary:focus {
   -webkit-box-shadow: unset !important;
           box-shadow: unset !important;
-  background: #00ccb9 !important;
+  background: #cd5c4b !important;
   color: #ffffff !important;
 }
 
@@ -219,7 +219,7 @@ p:last-child {
 .section-title span {
   display: block;
   margin-bottom: 5px;
-  color: #00ccb9;
+  color: #cd5c4b;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -440,7 +440,7 @@ Preloader Area CSS
 Header Area CSS
 =================================================*/
 .top-header {
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -639,7 +639,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item a:hover, .fovia-nav .navbar .navbar-nav .nav-item a:focus, .fovia-nav .navbar .navbar-nav .nav-item a.active {
-  color: #00ccb9;
+  color: #cd5c4b;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item a i {
@@ -658,7 +658,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item:hover a, .fovia-nav .navbar .navbar-nav .nav-item:focus a, .fovia-nav .navbar .navbar-nav .nav-item.active a {
-  color: #00ccb9;
+  color: #cd5c4b;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu {
@@ -1536,7 +1536,7 @@ About Area CSS
 .about-content span {
   display: block;
   margin-bottom: 5px;
-  color: #00ccb9;
+  color: #cd5c4b;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -1576,7 +1576,7 @@ About Area CSS
   line-height: 25px;
   text-align: center;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   color: #fff;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -1632,7 +1632,7 @@ Our Mission Area CSS
 .our-mission-content .sub-title {
   display: block;
   margin-bottom: 5px;
-  color: #00ccb9;
+  color: #cd5c4b;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -1685,7 +1685,7 @@ Our Mission Area CSS
   line-height: 45px;
   text-align: center;
   border-radius: 50%;
-  color: #00ccb9;
+  color: #cd5c4b;
   font-size: 16px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -1834,7 +1834,7 @@ Our Vision Area CSS
   height: 60px;
   line-height: 60px;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   color: #ffffff;
   font-size: 25px;
   -webkit-transition: 0.5s;
@@ -1865,7 +1865,7 @@ Our Vision Area CSS
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -2440,7 +2440,7 @@ Doctor Details Area CSS
 
 .doctor-details-image span {
   display: block;
-  color: #00ccb9;
+  color: #cd5c4b;
   font-size: 14.5px;
   margin-top: 7px;
 }
@@ -2465,7 +2465,7 @@ Doctor Details Area CSS
   height: 30px;
   line-height: 30px;
   border-radius: 50%;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   text-align: center;
   font-size: 14px;
 }
@@ -2566,7 +2566,7 @@ Doctor Details Area CSS
   line-height: 25px;
   text-align: center;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   color: #fff;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -2730,7 +2730,7 @@ Appointment Area CSS
   position: absolute;
   left: 0;
   top: 0;
-  color: #00ccb9;
+  color: #cd5c4b;
   font-size: 35px;
 }
 
@@ -2914,8 +2914,8 @@ Doctor Calendar Area CSS
 }
 
 .doctor-calendar-table table tbody tr td:hover {
-  background-color: #00ccb9;
-  border-color: #00ccb9;
+  background-color: #cd5c4b;
+  border-color: #cd5c4b;
 }
 
 .doctor-calendar-table table tbody tr td:hover h3 {
@@ -3047,7 +3047,7 @@ Feedback Area CSS
   transition: 0.5s;
   display: inline-block;
   position: relative;
-  border: 2px solid #00ccb9;
+  border: 2px solid #cd5c4b;
   border-radius: 50%;
   padding: 3px;
   width: 85px;
@@ -3131,7 +3131,7 @@ FAQ Area CSS
 .faq-accordion .sub-title {
   display: block;
   margin-bottom: 5px;
-  color: #00ccb9;
+  color: #cd5c4b;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -3182,7 +3182,7 @@ FAQ Area CSS
   text-align: center;
   height: 100%;
   background: #d2f5e1;
-  color: #00ccb9;
+  color: #cd5c4b;
   font-size: 14px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -3202,7 +3202,7 @@ FAQ Area CSS
 }
 
 .faq-accordion .accordion .accordion-title.active i {
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   color: #ffffff;
 }
 
@@ -3355,15 +3355,15 @@ Partner Area CSS
 .partner-item a::before {
   left: 0;
   top: 0;
-  border-left: 3px solid #00ccb9;
-  border-top: 3px solid #00ccb9;
+  border-left: 3px solid #cd5c4b;
+  border-top: 3px solid #cd5c4b;
 }
 
 .partner-item a::after {
   right: 0;
   bottom: 0;
-  border-right: 3px solid #00ccb9;
-  border-bottom: 3px solid #00ccb9;
+  border-right: 3px solid #cd5c4b;
+  border-bottom: 3px solid #cd5c4b;
 }
 
 .partner-item a img {
@@ -3446,7 +3446,7 @@ Blog Area CSS
 }
 
 .single-blog-post .post-content .post-meta ul li a {
-  color: #00ccb9;
+  color: #cd5c4b;
 }
 
 .single-blog-post .post-content .post-meta ul li:last-child {
@@ -3509,11 +3509,11 @@ Blog Details Area CSS
 }
 
 .blog-details-desc .article-content .entry-meta ul li a:hover {
-  color: #00ccb9;
+  color: #cd5c4b;
 }
 
 .blog-details-desc .article-content .entry-meta ul li i {
-  color: #00ccb9;
+  color: #cd5c4b;
   margin-right: 2px;
 }
 
@@ -3524,7 +3524,7 @@ Blog Details Area CSS
   right: -15px;
   width: 6px;
   height: 1px;
-  background: #00ccb9;
+  background: #cd5c4b;
 }
 
 .blog-details-desc .article-content .entry-meta ul li:last-child {
@@ -3590,7 +3590,7 @@ Blog Details Area CSS
   text-align: center;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
   background-color: #d2f5e1;
-  color: #00ccb9;
+  color: #cd5c4b;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   display: inline-block;
@@ -3601,7 +3601,7 @@ Blog Details Area CSS
 }
 
 .blog-details-desc .article-content .features-list li:hover i {
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   color: #ffffff;
 }
 
@@ -3640,7 +3640,7 @@ Blog Details Area CSS
 }
 
 .blog-details-desc .article-footer .article-tags a:hover {
-  color: #00ccb9;
+  color: #cd5c4b;
 }
 
 .blog-details-desc .article-footer .article-share {
@@ -3670,7 +3670,7 @@ Blog Details Area CSS
 
 .blog-details-desc .article-footer .article-share .social li a {
   display: block;
-  color: #00ccb9;
+  color: #cd5c4b;
   width: 32px;
   height: 32px;
   line-height: 32px;
@@ -3682,7 +3682,7 @@ Blog Details Area CSS
 
 .blog-details-desc .article-footer .article-share .social li a:hover {
   color: #ffffff;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   -webkit-transform: translateY(-2px);
           transform: translateY(-2px);
 }
@@ -3734,7 +3734,7 @@ blockquote::after, .blockquote::after {
   top: 0;
   bottom: 0;
   width: 3px;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -3804,7 +3804,7 @@ blockquote::after, .blockquote::after {
   width: 3px;
   left: -25px;
   position: absolute;
-  background: #00ccb9;
+  background: #cd5c4b;
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -3854,8 +3854,8 @@ blockquote::after, .blockquote::after {
 
 .comments-area .comment-body .reply a:hover {
   color: #ffffff;
-  background-color: #00ccb9;
-  border-color: #00ccb9;
+  background-color: #cd5c4b;
+  border-color: #cd5c4b;
 }
 
 .comments-area .comment-meta {
@@ -3897,7 +3897,7 @@ blockquote::after, .blockquote::after {
 }
 
 .comments-area .comment-metadata a:hover {
-  color: #00ccb9;
+  color: #cd5c4b;
 }
 
 .comments-area .comment-content p {
@@ -3921,7 +3921,7 @@ blockquote::after, .blockquote::after {
   width: 3px;
   left: -25px;
   position: absolute;
-  background: #00ccb9;
+  background: #cd5c4b;
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -3969,7 +3969,7 @@ blockquote::after, .blockquote::after {
 }
 
 .comments-area .comment-respond input[type="date"]:focus, .comments-area .comment-respond input[type="time"]:focus, .comments-area .comment-respond input[type="datetime-local"]:focus, .comments-area .comment-respond input[type="week"]:focus, .comments-area .comment-respond input[type="month"]:focus, .comments-area .comment-respond input[type="text"]:focus, .comments-area .comment-respond input[type="email"]:focus, .comments-area .comment-respond input[type="url"]:focus, .comments-area .comment-respond input[type="password"]:focus, .comments-area .comment-respond input[type="search"]:focus, .comments-area .comment-respond input[type="tel"]:focus, .comments-area .comment-respond input[type="number"]:focus, .comments-area .comment-respond textarea:focus {
-  border-color: #00ccb9;
+  border-color: #cd5c4b;
 }
 
 .comments-area .comment-respond .comment-form-author {
@@ -4019,7 +4019,7 @@ blockquote::after, .blockquote::after {
 }
 
 .comments-area .comment-respond .form-submit input {
-  background: #00ccb9;
+  background: #cd5c4b;
   border: none;
   color: #ffffff;
   padding: 14px 30px 12px;
@@ -4090,7 +4090,7 @@ Page Title Area CSS
 .page-title-content ul li {
   display: inline-block;
   position: relative;
-  color: #00ccb9;
+  color: #cd5c4b;
   font-size: 16px;
   font-family: "Rubik", sans-serif;
   margin-left: 8px;
@@ -4102,7 +4102,7 @@ Page Title Area CSS
 }
 
 .page-title-content ul li a:hover {
-  color: #00ccb9;
+  color: #cd5c4b;
 }
 
 .page-title-content ul li::before {
@@ -4143,10 +4143,10 @@ Pagination Area CSS
 }
 
 .pagination-area .page-numbers.current, .pagination-area .page-numbers:hover, .pagination-area .page-numbers:focus {
-  background: #00ccb9;
+  background: #cd5c4b;
   color: #ffffff;
-  -webkit-box-shadow: 0 2px 10px 0 #00ccb9;
-          box-shadow: 0 2px 10px 0 #00ccb9;
+  -webkit-box-shadow: 0 2px 10px 0 #cd5c4b;
+          box-shadow: 0 2px 10px 0 #cd5c4b;
 }
 
 /*================================================
@@ -4177,7 +4177,7 @@ Sidebar Widget Area CSS
 .widget-area .widget .widget-title::before {
   content: '';
   position: absolute;
-  background: #00ccb9;
+  background: #cd5c4b;
   bottom: -1px;
   left: 0;
   width: 50px;
@@ -4210,7 +4210,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_search form .search-field:focus {
-  border-color: #00ccb9;
+  border-color: #cd5c4b;
 }
 
 .widget-area .widget_search form button {
@@ -4222,7 +4222,7 @@ Sidebar Widget Area CSS
   width: 50px;
   border: none;
   color: #ffffff;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -4317,7 +4317,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_recent_entries ul li::before {
-  background: #00ccb9;
+  background: #cd5c4b;
   position: absolute;
   height: 7px;
   width: 7px;
@@ -4353,7 +4353,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_recent_comments ul li::before {
-  background: #00ccb9;
+  background: #cd5c4b;
   position: absolute;
   height: 7px;
   width: 7px;
@@ -4388,7 +4388,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_archive ul li::before {
-  background: #00ccb9;
+  background: #cd5c4b;
   position: absolute;
   height: 7px;
   width: 7px;
@@ -4416,7 +4416,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_categories ul li::before {
-  background: #00ccb9;
+  background: #cd5c4b;
   position: absolute;
   height: 7px;
   width: 7px;
@@ -4452,7 +4452,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_meta ul li::before {
-  background: #00ccb9;
+  background: #cd5c4b;
   position: absolute;
   height: 7px;
   width: 7px;
@@ -4477,9 +4477,9 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .tagcloud a:hover, .widget-area .tagcloud a:focus {
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   color: #ffffff;
-  border-color: #00ccb9;
+  border-color: #cd5c4b;
 }
 
 .widget-area .widget_services_list ul {
@@ -4527,7 +4527,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_services_list ul li a.active, .widget-area .widget_services_list ul li a:hover {
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   color: #ffffff;
   padding-left: 20px;
 }
@@ -6054,7 +6054,7 @@ Contact Area CSS
   z-index: -1;
 } */
 .contact-info ul li .icon:hover{
-  background: #00ccb9;
+  background: #cd5c4b;
 }
 
 .contact-info ul li span {
@@ -6212,7 +6212,7 @@ Subscribe Area CSS
   line-height: 33px;
   color: #ffffff;
   border-radius: 50%;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -6220,7 +6220,7 @@ Subscribe Area CSS
 .newsletter-form button:hover, .newsletter-form button:focus {
   -webkit-box-shadow: unset !important;
           box-shadow: unset !important;
-  background: #00ccb9 !important;
+  background: #cd5c4b !important;
   color: #ffffff !important;
 }
 
@@ -6418,7 +6418,7 @@ Go Top CSS
   cursor: pointer;
   top: 50%;
   right: 15px;
-  background: #00ccb9;
+  background: #cd5c4b;
   z-index: 4;
   width: 40px;
   text-align: center;
@@ -6443,7 +6443,7 @@ Go Top CSS
 
 .go-top:hover, .go-top:focus {
   color: #ffffff;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
 }
 /*-- End Counter --*/
 /*-- About --*/
@@ -6483,7 +6483,7 @@ Go Top CSS
 .about-item ul li i {
   display: inline-block;
   margin-right: 10px;
-  color: #00ccb9;
+  color: #cd5c4b;
   font-size: 23px;
   position: relative;
   top: 2px;
@@ -6493,7 +6493,7 @@ Go Top CSS
   display: inline-block;
   font-size: 15px;
   color: #ffffff;
-  background-color: #446466;
+  background-color: #a2565f;
   font-weight: 500;
   padding: 20px 45px;
   border-radius: 5px;
@@ -6501,7 +6501,7 @@ Go Top CSS
 
 .about-item a:hover {
   color: 15px;
-  background-color:#00ccb9
+  background-color:#cd5c4b
 }
 
 .about-left {
@@ -6527,7 +6527,7 @@ Go Top CSS
   z-index: -1;
   -webkit-animation: a-one 5s infinite linear;
           animation: a-one 5s infinite linear;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
 }
 
 .about-left:after {
@@ -6541,7 +6541,7 @@ Go Top CSS
   z-index: -1;
   -webkit-animation: a-two 5s infinite linear;
           animation: a-two 5s infinite linear;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
 }
 
 @-webkit-keyframes a-one {
@@ -6664,7 +6664,7 @@ Go Top CSS
 }
 
 .expertise-item .expertise-inner {
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   padding: 42px 25px 35px 25px;
   border-radius: 10px;
   margin-bottom: 30px;
@@ -6723,7 +6723,7 @@ Go Top CSS
   border-radius: 10px;
   -webkit-animation: a-one 5s infinite linear;
           animation: a-one 5s infinite linear;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
 }
 
 .expertise-item .expertise-right:after {
@@ -6737,7 +6737,7 @@ Go Top CSS
   border-radius: 10px;
   -webkit-animation: a-two 5s infinite linear;
           animation: a-two 5s infinite linear;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
 }
 
 .expertise-item .expertise-right img {
@@ -6801,7 +6801,7 @@ Go Top CSS
   bottom: 0;
   width: 80px;
   height: 5px;
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
   border-radius: 5px;
 }
 .tituloespecialidade{
@@ -6896,7 +6896,7 @@ Go Top CSS
 }
 
 .blog-item .blog-bottom ul li i {
-  color: #00ccb9;
+  color: #cd5c4b;
 }
 
 .blog-item .blog-bottom ul li:last-child {
@@ -6985,12 +6985,12 @@ Go Top CSS
   margin-left: -9px;
 }
 .btnagendar{
-  background: #00ccb9;
+  background: #cd5c4b;
   width: 80%;
   margin-top: 10px;
 }
 .btnagendar:hover{
-  background: #00ccb9 !important;
+  background: #cd5c4b !important;
 }
 .atendimento{
   margin-left: 156px;
@@ -7113,7 +7113,7 @@ Go Top CSS
 .especialidadesul ul li i {
   display: inline-block;
   margin-right: 10px;
-  color: #00ccb9;
+  color: #cd5c4b;
   font-size: 23px;
   position: relative !important;
   top: 2px !important;
@@ -7495,7 +7495,7 @@ Go Top CSS
     color: #fff;
     font-weight: 600;
     font-size: 14px;
-    background: #00ccb9;
+    background: #cd5c4b;
 }
 ul.tabs li a:active {
    background: #19ce67 !important;
@@ -7651,7 +7651,7 @@ margin-top: 80px;
 }
 
 .heilight-white-text, .ttm-textcolor-white, .ttm-textcolor-white a, .ttm-btn.ttm-btn-color-white, .ttm-bgcolor-skincolor .ttm-btn.btn-inline.ttm-btn-color-white:hover, .ttm-icon_element-background-color-skincolor i, .ttm-icon.ttm-icon_element-fill, .ttm-bgcolor-black .featured-title h5, .ttm-bgcolor-skincolor .testimonial-slide .testimonials .testimonial-content h6, .ttm-bgcolor-black .testimonial-slide .testimonials .testimonial-content h6, .ttm-bgcolor-skincolor .ttm-fid-icon-wrapper i, .ttm-bgcolor-skincolor .ttm-fid.inside h4, .ttm-bgcolor-skincolor .ttm-fid.inside h3, .ttm-tabs ul.tabs li.active a, .ttm-bgcolor-skincolor .featured-title h6, .ttm-bgcolor-black .ttm-progress-bar h4, .ttm-bgcolor-skincolor .ttm-progress-bar h4, .ttm-bgcolor-black .ttm-progress-bar .progress-parcent, .ttm-bgcolor-skincolor .ttm-progress-bar .progress-parcent {
-  color: #00ccb9 !important;
+  color: #cd5c4b !important;
 }
 .ttm-bgcolor-skincolor, .ttm-bgcolor-skincolor > .ttm-bg-layer, .ttm-bgcolor-skincolor > .ttm-bg-layer > .ttm-bg-layer-inner, .tp-shapewrapper, .ttm-bg-highlight-skin, .tp-caption.skin-flatborder-button:hover, .ttm-header-icons .ttm-header-cart-link span.number-cart, .ttm-header-icons .ttm-header-cart-link a:hover, .ttm-header-icons .ttm-header-search-link a:hover, .ttm-icon_element-background-color-skincolor, .ttm-btn-bgcolor-skincolor, .ttm-btn.btn-inline.ttm-btn-color-black:hover .ttm-btn.btn-inline.ttm-btn-underline:before, .ttm-btn.btn-inline.ttm-btn-color-black:hover .ttm-btn.btn-inline.ttm-btn-underline:after, .ttm-tabs ul.tabs li.active a, .ttm-progress-bar .progress .progress-bar.progress-bar-color-bar_skincolor, .newsletter-form input[type="submit"], .ttm-quote-form input[type="submit"], .social-icons.circle li>a:hover, .ttm-btn.ttm-btn-bgcolor-black:hover, .ttm-btn.ttm-btn-color-skincolor.ttm-btn-style-border:hover, #totop.top-visible, .ttm-video-btn .ttm-btn-play, .accordion .toggle.toggle-title.ttm-style-classic.active .toggle-title, .ttm-tabs.ttm-tab-style-horizontal ul.tabs li.active a, .ttm-tabs.tabs-for-single-products ul.tabs li:hover a, .ttm-bgcolor-grey .ttm-pagination .page-numbers.current, .ttm-bgcolor-grey .ttm-pagination .page-numbers:hover, .mailchimp-inputbox button[type="submit"], a.checkout-button:hover, .coupon button:hover, .ttm-cart-form button:hover, .place-order button:hover, .ttm-topbar-wrapper .ttm-fbar-btn, .section-title h5:after, .section-title h5:before, .ttm-btn.btn-inline.ttm-btn-underline:hover:after, .ttm-icon.ttm-icon_element-background-skincolor, .ttm-video-icon .ttm-icon:before, .ttm-video-icon .ttm-icon:after, .event-slide.owl-theme .owl-controls .owl-nav div:hover, .footer .social-icons li>a:hover, [data-tooltip]:focus:after, [data-tooltip]:hover:after, .widget ul#menu-footer-services li a:before, .ttm-newsletter-box input[type="submit"], .featured-icon-box.style4:hover, .ttm-processbox-wrapper .ttm-processbox .process-num, .featured-imagebox-team .ttm-social-links-wrapper ul li a:hover, .row-title u:after, .featured-imagebox-team.ttm-team-box-view-overlay .featured-iconbox a, .ttm-ptablebox-featured-col .ttm-ptablebox-title, .ttm-feature-plans .ttm-static-box-content, .ttm-tabs-style-classic ul.tabs li.active a:after, .widget.widget-nav-menu ul li.active a, .widget.widget-nav-menu ul li:hover a, .tab-inner-heading, .sidebar .widget .widget-title:after, .sidebar .widget .tagcloud a:hover, .ttm-pagination .page-numbers.current, .ttm-pagination .page-numbers:hover, .featured-imagebox-team.ttm-team-box-view-overlay.ttm-box-view-top-image:hover .ttm-box-bottom-content, .sidebar .widget_product_categories li span, .sidebar .widget-categories li span, .comments-area .media-body a.comment-reply-link, .products .product:hover .ttm-product-content .add-to-cart-btn a:after, .products .product .ttm-shop-icon a:hover, div.product ul.tabs li.active a:before, div.product ul.tabs li a, .product .onsale, .Price-amount.amount ins, .ttm-team-social-links-wrapper ul li a, .ttm-header-style-overlay .ttm-header-icons .ttm-header-cart-link a:hover, .ttm-header-style-overlay .ttm-header-icons .ttm-header-search-link a:hover, .accordion .toggle.active .toggle-title {
   background-color: #446466 !important;
@@ -7717,10 +7717,10 @@ margin-top: 14px;
   margin-bottom: -17px !important;
 }
 i.fa-caret-right {
-  color: #00ccb9;
+  color: #cd5c4b;
 }
 i.fa-caret-left{
-  color: #00ccb9;
+  color: #cd5c4b;
 }
 @media(min-width:360px) and (max-width:640px){
   .titulofaq{
@@ -7771,7 +7771,7 @@ i.fa-caret-left{
     height: 100%;
 }}
 .btnmobile{
-  background-color: #00ccb9;
+  background-color: #cd5c4b;
     width: 100%;
     margin: auto;
     text-align: center;
