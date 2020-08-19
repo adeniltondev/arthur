@@ -41,18 +41,34 @@
     <script src="/assets/js/jquery-3.4.1.slim.min.js"></script>
     <link rel="stylesheet" href="/assets/css/sweetalert2.min.css">
     <script  src="/assets/js/sweetalert2.all.min.js"></script>
+    <script type="text/javascript" src="/assets/js/imask.js"></script>
 
-    <script type="text/javascript">
-        // Alert With Input Type
-        $(document).on('click', '#mauticform_input_formcontato_submit', function (e) {
-            swal({
-                type: 'success',
-                //   title: 'Cadastro feito com sucesso',
-                html: '<div class="mauticform-message" id="mauticform_formcontato_message"></div>',
-                confirmButtonText: 'Fechar'
-            })
-        });
-    </script>
+
+
+
+<script type="text/javascript">
+    // Alert With Input Type
+    $(document).on('click', '#mauticform_input_formcontato_submit', function (e) {
+        swal({
+            type: 'success',
+            //   title: 'Cadastro feito com sucesso',
+            html: '<div class="mauticform-message" id="mauticform_formcontato_message"></div>',
+            confirmButtonText: 'Fechar'
+        })
+    });
+</script>
+
+<script type="text/javascript">
+    // Alert With Input Type
+    $(document).on('click', '#mauticform_input_formconteudos_submit', function (e) {
+        swal({
+            type: 'success',
+            //   title: 'Cadastro feito com sucesso',
+            html: '<div class="mauticform-message" id="mauticform_formconteudos_message"></div>',
+            confirmButtonText: 'Fechar'
+        })
+    });
+</script>
 
     <script type="text/javascript">
         /** This section is only needed once per page if manually copying **/
@@ -315,7 +331,7 @@
                                                     class="mauticform-row mauticform-tel mauticform-field-3 mauticform-required">
                                                     <input id="mauticform_input_formcontato_telefone"
                                                         name="mauticform[telefone]" value="" placeholder="Telefone"
-                                                        class="mauticform-input form-control" type="tel">
+                                                        class="input-telefone mauticform-input form-control" type="tel">
                                                     <span class="mauticform-errormsg"
                                                         style="display: none;">Obrigatório</span>
                                                 </div>
@@ -487,7 +503,7 @@
                                 id="mauticform_formconteudos" data-mautic-form="formconteudos"
                                 enctype="multipart/form-data">
                                 <div class="mauticform-error" id="mauticform_formconteudos_error"></div>
-                                <div class="mauticform-message" id="mauticform_formconteudos_message"></div>
+                                <!-- <div class="mauticform-message" id="mauticform_formconteudos_message"></div> -->
                                 <div class="mauticform-innerform">
 
 
@@ -605,6 +621,26 @@
                 class="fab fa-whatsapp"></i>
             WhatsApp</a>
     </div>
+
+    <script type="text/javascript">
+        /*
+        https://unmanner.github.io/imaskjs/
+        */
+        const phoneMaskSelector = '.input-telefone';
+        const phoneMaskInputs = document.querySelectorAll(phoneMaskSelector);
+        
+        const masksOptions = {
+            phone: {
+                mask: '(00) 00000-0000'
+            }
+        };
+        
+        for (const item of phoneMaskInputs) {
+            new IMask(item, masksOptions.phone);
+        }
+        
+        </script>
+
     <!-- jQuery Min JS -->
     <script src="assets/js/jquery.min.js"></script>
     <!-- Popper Min JS -->

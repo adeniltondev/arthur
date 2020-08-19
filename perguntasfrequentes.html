@@ -37,6 +37,22 @@
     <title>Arthur - Gastroenterologia e Endoscopia Digestiva</title>
 
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <script src="/assets/js/jquery-3.4.1.slim.min.js"></script>
+    <link rel="stylesheet" href="/assets/css/sweetalert2.min.css">
+    <script  src="/assets/js/sweetalert2.all.min.js"></script>
+
+    <script type="text/javascript">
+        // Alert With Input Type
+        $(document).on('click', '#mauticform_input_formconteudos_submit', function (e) {
+            swal({
+                type: 'success',
+                //   title: 'Cadastro feito com sucesso',
+                html: '<div class="mauticform-message" id="mauticform_formconteudos_message"></div>',
+                confirmButtonText: 'Fechar'
+            })
+        });
+    </script>
+    
 
     <script type="text/javascript">
         /** This section is only needed once per page if manually copying **/
@@ -1034,7 +1050,7 @@
                                 id="mauticform_formconteudos" data-mautic-form="formconteudos"
                                 enctype="multipart/form-data">
                                 <div class="mauticform-error" id="mauticform_formconteudos_error"></div>
-                                <div class="mauticform-message" id="mauticform_formconteudos_message"></div>
+                                <!-- <div class="mauticform-message" id="mauticform_formconteudos_message"></div> -->
                                 <div class="mauticform-innerform">
 
 
