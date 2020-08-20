@@ -965,7 +965,9 @@ Header Area CSS
 .search-overlay.search-popup .search-form {
   position: relative;
 }
-
+.mobile{
+  display:none;
+}
 .search-overlay.search-popup .search-form .search-input {
   display: block;
   width: 100%;
