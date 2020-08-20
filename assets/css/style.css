@@ -460,14 +460,14 @@ Header Area CSS
 }
 
 .header-contact-info li i {
-  color: #fff;
+  color: #ce5c4a;
   margin-right: 4px;
   width: 28px;
   height: 28px;
   display: inline-block;
   line-height: 28px;
   border-radius: 50%;
-  background-color: #9f2f37;
+  background-color: #ffffff;
   text-align: center;
   font-size: 13px;
   -webkit-transition: 0.5s;
@@ -479,8 +479,8 @@ Header Area CSS
 }
 
 .header-contact-info li:hover i {
-  background-color: #9f2f37;
-  color: #ffffff;
+  background-color: #fff;
+  color: #ce5c4a;
 }
 
 .header-right-content {
@@ -503,19 +503,19 @@ Header Area CSS
 
 .header-right-content .top-header-social li a {
   display: block;
-  color: #ffffff;
+  color: #ce5c4a;
   width: 30px;
   height: 30px;
   line-height: 31px;
   border-radius: 50%;
-  background-color: #9f2f37;
+  background-color: #ffffff;
   text-align: center;
   font-size: 14px;
 }
 
 .header-right-content .top-header-social li a:hover {
-  color: #ffffff;
-  background-color: #9f2f37;
+  color: #ce5c4a;
+  background-color: #fff;
   -webkit-transform: translateY(-5px);
           transform: translateY(-5px);
 }
@@ -7780,7 +7780,10 @@ i.fa-caret-left{
     padding: 18px;
 }
 .btn-whatsapp{
-  background: #9f2f37;
+  background: #ce5c4a;
+}
+.btn-whatsapp:hover{
+  background:#c05545 ;
 }
 .swal2-popup .swal2-styled {
   border: 0 !important;
