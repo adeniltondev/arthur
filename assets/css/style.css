@@ -965,9 +965,6 @@ Header Area CSS
 .search-overlay.search-popup .search-form {
   position: relative;
 }
-.mobile{
-  display:none;
-}
 .search-overlay.search-popup .search-form .search-input {
   display: block;
   width: 100%;
@@ -7861,3 +7858,7 @@ i.fa-caret-left{
   text-align:center;
 }
 }
+@media (min-width:1920px) and (max-width:2500px){
+  .mobile{
+    display:none;
+}}
