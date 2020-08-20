@@ -7858,8 +7858,11 @@ i.fa-caret-left{
   text-align:center;
 }
 }
-@media (min-width:2880px) and (max-width:5120px){
+.mobile{
+  display:none !important;
+}
+/* @media (min-width:2880px) and (max-width:5120px){
   .mobile{
     display:none !important;
 }
-}
+} */
