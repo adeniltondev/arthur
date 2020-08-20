@@ -255,7 +255,7 @@ p:last-child {
 .form-control:focus {
   -webkit-box-shadow: unset !important;
           box-shadow: unset !important;
-  border-color: #19ce67;
+  border-color: #ce5c4a;
 }
 
 /*================================================
@@ -336,7 +336,7 @@ Preloader Area CSS
 }
 
 .preloader .loader .indicator svg polyline#front {
-  stroke: #19ce67;
+  stroke: #ce5c4a;
   stroke-dasharray: 12, 36;
   stroke-dashoffset: 48;
   -webkit-animation: dash 1s linear infinite;
@@ -351,7 +351,7 @@ Preloader Area CSS
   height: 100%;
   width: 60%;
   z-index: -1;
-  background: #19ce67;
+  background: #ce5c4a;
   -webkit-transition: .9s;
   transition: .9s;
 }
@@ -567,7 +567,7 @@ Header Area CSS
 }
 
 .header-right-content .lang-select .nice-select .list .option:hover {
-  background-color: #19ce67 !important;
+  background-color: #ce5c4a !important;
   color: #ffffff;
 }
 
@@ -677,7 +677,7 @@ Header Area CSS
   border-radius: 0;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  border-top: 3px solid #19ce67;
+  border-top: 3px solid #ce5c4a;
   padding-top: 20px;
   padding-left: 25px;
   padding-right: 25px;
@@ -697,7 +697,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
@@ -712,7 +712,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -728,7 +728,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -744,7 +744,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -760,7 +760,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -776,7 +776,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -792,11 +792,11 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -806,7 +806,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -816,7 +816,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -826,7 +826,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -836,7 +836,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li.active a {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -846,7 +846,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li.active a {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li:hover .dropdown-menu {
@@ -870,7 +870,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .others-options .cart-btn:hover {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .others-options .btn {
@@ -899,7 +899,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .others-options .option-item .search-btn:hover {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .fovia-nav .navbar .others-options .option-item .search-close-btn {
@@ -917,7 +917,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .others-options .option-item .search-close-btn:hover {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .navbar-area {
@@ -981,7 +981,7 @@ Header Area CSS
 }
 
 .search-overlay.search-popup .search-form .search-input:focus {
-  border-color: #19ce67;
+  border-color: #ce5c4a;
 }
 
 .search-overlay.search-popup .search-form .search-button {
@@ -999,7 +999,7 @@ Header Area CSS
 }
 
 .search-overlay.search-popup .search-form .search-button:hover, .search-overlay.search-popup .search-form .search-button:focus {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 @media only screen and (max-width: 991px) {
@@ -1023,7 +1023,7 @@ Header Area CSS
     margin-top: 29px;
   }
   .fovia-responsive-nav .fovia-responsive-menu.mean-container .mean-nav ul li a.active {
-    color: #19ce67;
+    color: #ce5c4a;
   }
   .fovia-responsive-nav .fovia-responsive-menu.mean-container .mean-nav ul li li a {
     font-size: 13.5px;
@@ -1061,7 +1061,7 @@ Header Area CSS
     font-size: 17px;
   }
   .fovia-responsive-nav .others-options .cart-btn:hover {
-    color: #19ce67;
+    color: #ce5c4a;
   }
   .fovia-responsive-nav .others-options .option-item {
     display: none;
@@ -1081,7 +1081,7 @@ Header Area CSS
     font-size: 17px;
   }
   .fovia-responsive-nav .others-options .option-item .search-btn:hover {
-    color: #19ce67;
+    color: #ce5c4a;
   }
   .fovia-responsive-nav .others-options .option-item .search-close-btn {
     cursor: pointer;
@@ -1096,7 +1096,7 @@ Header Area CSS
     display: block;
   }
   .fovia-responsive-nav .others-options .option-item .search-close-btn:hover {
-    color: #19ce67;
+    color: #ce5c4a;
   }
   .search-overlay.search-popup .search-form .search-input {
     width: 96%;
@@ -1198,7 +1198,7 @@ Main Banner Area CSS
 }
 
 .home-slides.owl-theme .owl-nav [class*=owl-]:hover {
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   color: #ffffff;
 }
 
@@ -1225,12 +1225,12 @@ Main Banner Area CSS
 }
 
 .home-slides.owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #19ce67;
+  background-color: #ce5c4a;
 }
 
 .home-slides.owl-theme .owl-dots .owl-dot.active span {
   width: 25px;
-  background-color: #19ce67;
+  background-color: #ce5c4a;
 }
 
 .home-slides.owl-theme:hover .owl-nav {
@@ -1364,7 +1364,7 @@ Main Services Area CSS
   height: 60px;
   line-height: 60px;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   color: #ffffff;
   font-size: 25px;
   -webkit-transition: 0.5s;
@@ -1413,7 +1413,7 @@ Main Services Area CSS
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -1745,7 +1745,7 @@ Our Approach Area CSS
 .approach-content .sub-title {
   display: block;
   margin-bottom: 5px;
-  color: #19ce67;
+  color: #ce5c4a;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -1783,7 +1783,7 @@ Our Approach Area CSS
   text-align: center;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
   background-color: #d2f5e1;
-  color: #19ce67;
+  color: #ce5c4a;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   display: inline-block;
@@ -1794,7 +1794,7 @@ Our Approach Area CSS
 }
 
 .approach-content ul li:hover i {
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   color: #ffffff;
 }
 
@@ -1932,7 +1932,7 @@ Fun Facts Area CSS
 
 .single-fun-facts .icon {
   font-size: 45px;
-  color: #19ce67;
+  color: #ce5c4a;
   margin-bottom: 10px;
 }
 
@@ -1954,7 +1954,7 @@ Fun Facts Area CSS
 }
 
 .single-fun-facts p {
-  color: #19ce67;
+  color: #ce5c4a;
   line-height: initial;
   margin-top: 5px;
 }
@@ -2024,7 +2024,7 @@ Services Area CSS
   line-height: 75px;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
   background-color: #ffffff;
-  color: #19ce67;
+  color: #ce5c4a;
   font-size: 30px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -2071,7 +2071,7 @@ Services Area CSS
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   z-index: -1;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -2080,7 +2080,7 @@ Services Area CSS
 }
 
 .single-services-box .read-more-btn {
-  color: #19ce67;
+  color: #ce5c4a;
   display: inline-block;
   margin-top: 18px;
   text-transform: uppercase;
@@ -2123,7 +2123,7 @@ Services Area CSS
 }
 
 .single-services-box:hover::before {
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   opacity: .80;
 }
 
@@ -2171,7 +2171,7 @@ Services Details Area CSS
   text-align: center;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
   background-color: #d2f5e1;
-  color: #19ce67;
+  color: #ce5c4a;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   display: inline-block;
@@ -2182,7 +2182,7 @@ Services Details Area CSS
 }
 
 .services-details-desc .services-features-list li:hover i {
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   color: #ffffff;
 }
 
@@ -2269,7 +2269,7 @@ Doctor Area CSS
   background-color: #ffffff;
   line-height: 35px;
   border-radius: 50%;
-  color: #19ce67;
+  color: #ce5c4a;
   opacity: 0;
   visibility: hidden;
   margin-top: 25px;
@@ -2288,7 +2288,7 @@ Doctor Area CSS
   border-radius: 50%;
   left: 0;
   top: 0;
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: 0.5s;
@@ -2311,7 +2311,7 @@ Doctor Area CSS
 
 .single-doctor-box .doctor-content span {
   display: block;
-  color: #19ce67;
+  color: #ce5c4a;
   font-size: 14.5px;
   margin-top: 5px;
 }
@@ -2331,7 +2331,7 @@ Doctor Area CSS
 
 .single-doctor-box .doctor-content .social li a {
   display: block;
-  color: #19ce67;
+  color: #ce5c4a;
   width: 30px;
   height: 30px;
   line-height: 30px;
@@ -2343,7 +2343,7 @@ Doctor Area CSS
 
 .single-doctor-box .doctor-content .social li a:hover {
   color: #ffffff;
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   -webkit-transform: translateY(-2px);
           transform: translateY(-2px);
 }
@@ -2403,7 +2403,7 @@ Doctor Area CSS
 }
 
 .doctor-slides.owl-theme .owl-nav [class*=owl-]:hover {
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   color: #ffffff;
 }
 
@@ -2512,7 +2512,7 @@ Doctor Details Area CSS
 .skill-desc .sub-title {
   display: block;
   margin-bottom: 3px;
-  color: #19ce67;
+  color: #ce5c4a;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -2586,7 +2586,7 @@ Doctor Details Area CSS
 .education-desc .sub-title {
   display: block;
   margin-bottom: 3px;
-  color: #19ce67;
+  color: #ce5c4a;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -2639,7 +2639,7 @@ Doctor Details Area CSS
   line-height: 45px;
   text-align: center;
   border-radius: 50%;
-  color: #19ce67;
+  color: #ce5c4a;
   font-size: 16px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -2654,7 +2654,7 @@ Doctor Details Area CSS
 }
 
 .education-desc ul li:hover .icon {
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   color: #ffffff;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
 }
@@ -2811,7 +2811,7 @@ Appointment Area CSS
 }
 
 .appointment-content form .form-group .nice-select .list .option:hover {
-  background-color: #19ce67 !important;
+  background-color: #ce5c4a !important;
   color: #ffffff;
 }
 
@@ -2850,7 +2850,7 @@ Doctor Calendar Area CSS
 .doctor-calendar-table table thead tr th {
   vertical-align: middle;
   text-align: center;
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   border: none;
   color: #ffffff;
   text-transform: uppercase;
@@ -2903,7 +2903,7 @@ Doctor Calendar Area CSS
 .doctor-calendar-table table tbody tr td span.time {
   display: inline-block;
   background-color: #dff5e8;
-  color: #19ce67;
+  color: #ce5c4a;
   width: 65px;
   height: 65px;
   border-radius: 50%;
@@ -2929,7 +2929,7 @@ Doctor Calendar Area CSS
 
 .doctor-calendar-table table tbody tr td:hover span.time {
   background-color: #ffffff;
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .doctor-calendar-table table tbody tr:last-child td {
@@ -3085,7 +3085,7 @@ Feedback Area CSS
 
 .feedback-slides .next-arrow:hover, .feedback-slides .prev-arrow:hover {
   color: #ffffff;
-  background-color: #19ce67;
+  background-color: #ce5c4a;
 }
 
 .feedback-slides .next-arrow {
@@ -4588,7 +4588,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_download ul li a.active, .widget-area .widget_download ul li a:hover {
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   color: #ffffff;
   padding-left: 20px;
 }
@@ -4620,7 +4620,7 @@ Sidebar Widget Area CSS
   position: absolute;
   left: 0;
   top: 0;
-  color: #19ce67;
+  color: #ce5c4a;
   font-size: 30px;
 }
 
@@ -4661,7 +4661,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_appointment form .form-group .form-control:focus {
-  border-color: #19ce67;
+  border-color: #ce5c4a;
   padding-left: 2px;
 }
 
@@ -4700,7 +4700,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_appointment form .form-group .nice-select .list .option:hover {
-  background-color: #19ce67 !important;
+  background-color: #ce5c4a !important;
   color: #ffffff;
 }
 
@@ -4766,7 +4766,7 @@ Shop Area CSS
 }
 
 .woocommerce-topbar .woocommerce-topbar-ordering .nice-select .list .option:hover {
-  background-color: #19ce67 !important;
+  background-color: #ce5c4a !important;
   color: #ffffff;
 }
 
@@ -4830,7 +4830,7 @@ Shop Area CSS
 }
 
 .single-product-box .product-image .add-to-cart-btn:hover {
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   color: #ffffff;
 }
 
@@ -4942,8 +4942,8 @@ Product Details Area CSS
 }
 
 .product-details-desc .product-review .rating-count:hover {
-  color: #19ce67;
-  border-color: #19ce67;
+  color: #ce5c4a;
+  border-color: #ce5c4a;
 }
 
 .product-details-desc .product-add-to-cart {
@@ -4981,7 +4981,7 @@ Product Details Area CSS
 }
 
 .product-details-desc .product-add-to-cart .input-counter span:hover {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .product-details-desc .product-add-to-cart .input-counter input {
@@ -5229,8 +5229,8 @@ Product Details Area CSS
 
 .products-details-tab .tabs li a:hover, .products-details-tab .tabs li a:focus {
   color: #ffffff;
-  background-color: #19ce67;
-  border-color: #19ce67;
+  background-color: #ce5c4a;
+  border-color: #ce5c4a;
 }
 
 .products-details-tab .tabs li a:hover .dot, .products-details-tab .tabs li a:focus .dot {
@@ -5243,8 +5243,8 @@ Product Details Area CSS
 
 .products-details-tab .tabs li.current a {
   color: #ffffff;
-  background-color: #19ce67;
-  border-color: #19ce67;
+  background-color: #ce5c4a;
+  border-color: #ce5c4a;
 }
 
 .products-details-tab .tabs li.current a .dot {
@@ -5384,7 +5384,7 @@ Product Details Area CSS
 }
 
 .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-comments .review-item .review-report-link:hover {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-form {
@@ -5583,7 +5583,7 @@ Cart Area CSS
 }
 
 .cart-buttons .shopping-coupon-code button:hover {
-  background-color: #19ce67;
+  background-color: #ce5c4a;
 }
 
 .cart-totals {
@@ -5645,7 +5645,7 @@ Checkout Area CSS
   background: #ffffff;
   padding: 18px 20px 15px;
   margin-bottom: 65px;
-  border-top: 3px solid #19ce67;
+  border-top: 3px solid #ce5c4a;
   position: relative;
 }
 
@@ -5660,14 +5660,14 @@ Checkout Area CSS
 }
 
 .user-actions i {
-  color: #19ce67;
+  color: #ce5c4a;
   margin-right: 2px;
 }
 
 .user-actions span {
   display: inline-block;
   font-weight: 500;
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .user-actions span a {
@@ -5676,7 +5676,7 @@ Checkout Area CSS
 }
 
 .user-actions span a:hover, .user-actions span a:focus {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .billing-details .title {
@@ -5691,7 +5691,7 @@ Checkout Area CSS
 .billing-details .title::before {
   content: '';
   position: absolute;
-  background: #19ce67;
+  background: #ce5c4a;
   bottom: -1px;
   left: 0;
   width: 50px;
@@ -5742,7 +5742,7 @@ Checkout Area CSS
 }
 
 .billing-details .form-group .nice-select .list .option:hover {
-  background-color: #19ce67 !important;
+  background-color: #ce5c4a !important;
   color: #ffffff;
 }
 
@@ -5796,7 +5796,7 @@ Checkout Area CSS
 .order-details .title::before {
   content: '';
   position: absolute;
-  background: #19ce67;
+  background: #ce5c4a;
   bottom: -1px;
   left: 0;
   width: 50px;
@@ -5834,7 +5834,7 @@ Checkout Area CSS
 }
 
 .order-details .order-table table tbody tr td.product-name a:hover {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .order-details .order-table table tbody tr td.order-subtotal span, .order-details .order-table table tbody tr td.order-shipping span, .order-details .order-table table tbody tr td.total-price span {
@@ -5888,7 +5888,7 @@ Checkout Area CSS
   content: '';
   width: 12px;
   height: 12px;
-  background: #19ce67;
+  background: #ce5c4a;
   position: absolute;
   top: 6px;
   left: 3px;
@@ -6050,8 +6050,8 @@ Contact Area CSS
   background: #9f2f37;
   border-radius: 50%;
   margin: 6px;
-  -webkit-box-shadow: 0 1px 3px 1px #19ce67;
-          box-shadow: 0 1px 3px 1px #19ce67;
+  -webkit-box-shadow: 0 1px 3px 1px #ce5c4a;
+          box-shadow: 0 1px 3px 1px #ce5c4a;
   z-index: -1;
 } */
 .contact-info ul li .icon:hover{
@@ -6073,7 +6073,7 @@ Contact Area CSS
 }
 
 .contact-info ul li a:hover {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .contact-info ul li:last-child {
@@ -6327,7 +6327,7 @@ Footer Area CSS
 }
 
 .single-footer-widget .departments-list li a:hover {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .single-footer-widget .departments-list li:last-child {
@@ -6353,7 +6353,7 @@ Footer Area CSS
 }
 
 .single-footer-widget .links-list li a:hover {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 .single-footer-widget .links-list li:last-child {
@@ -6408,7 +6408,7 @@ Footer Area CSS
 }
 
 .copyright-area p a:hover {
-  color: #19ce67;
+  color: #ce5c4a;
 }
 
 /*================================================
@@ -7007,6 +7007,7 @@ Go Top CSS
 @media (min-width:360px) and (max-width:640px){
   .gridrodape {
     margin-left: 0px !important;
+  padding-top: 0px;
 }.atendimento {
   margin-bottom: -34px;
   position: relative;
@@ -7018,7 +7019,7 @@ Go Top CSS
   text-align: justify;
 }
 .whatsapp{
-  background-color: #19ce67;
+  background-color: #ce5c4a;
   position: fixed;
   margin-bottom: 56px;
   bottom: 0px;
@@ -7500,7 +7501,7 @@ Go Top CSS
     background: #ce5c4a;
 }
 ul.tabs li a:active {
-   background: #19ce67 !important;
+   background: #ce5c4a !important;
 }
 .ttm-tabs ul.tabs li a i{
     font-size: 18px;
@@ -7845,4 +7846,16 @@ i.fa-caret-left{
 }
 .bottom{
   margin-bottom: 100px;
+}
+@media(min-width:360px) and (max-width:640px){
+  .tituloendoco{
+    margin-top: 0px;
+  }
+  .expertise-area {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.single-footer-widget{
+  text-align:center;
+}
 }
